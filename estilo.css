@@ -1,5 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: royalblue;
+}
 .cabecalho {
     background-color: blue;
     width: 1440px;
     height: 30px;
+    border-bottom-right-radius: 10%;
 }
