@@ -8,6 +8,7 @@ body {
 }
 .cabecalho {
     display: flex;
+    align-items: center;
     background-color: blue;
     width: 1440px;
     height: 200px;
