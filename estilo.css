@@ -7,6 +7,7 @@ body {
     background-color: royalblue;
 }
 .cabecalho {
+    display: flex;
     background-color: blue;
     width: 1440px;
     height: 200px;
@@ -21,6 +22,6 @@ h1 {
     margin-left: 20%;
 }
 
-    .texto-logo {
-    display: flex;
+.texto-logo {
+  color: white;
 }
